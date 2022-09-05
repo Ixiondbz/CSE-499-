@@ -3,9 +3,9 @@ This repo contains all the codes used for our project 'Mitosis Object Detection'
 All of the codes were run in Colab.
 
 Team Members and their contribution(in percentages) to this project for both 499A and 499B:
-1. Ixion Chowdhury - **55%** 
-2. Raisa Azam      - **45%**
-3. Saif Newaz      - **0%**
+1. Ixion Chowdhury - **48.75%** 
+2. Raisa Azam      - **38.75%**
+3. Saif Newaz      - **12.5%**
 
 **DATASET**:                
 Original MIDOG-2021 Dataset link: https://drive.google.com/drive/folders/1YUMKNkXUtgaFM6jCHpZxIHPZx_CqE_qG?usp=sharing                     
